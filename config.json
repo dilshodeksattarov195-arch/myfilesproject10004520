@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservarse",
+        "uuid": 27513240,
+        "checksum": "1s28d9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
